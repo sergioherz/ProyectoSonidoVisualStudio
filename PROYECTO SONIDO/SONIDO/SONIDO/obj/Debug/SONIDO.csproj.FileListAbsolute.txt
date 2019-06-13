@@ -1,0 +1,333 @@
+J:\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+J:\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+J:\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.Cache
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+J:\SONIDO\SONIDO\bin\Debug\MySql.Data.dll
+J:\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+J:\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+E:\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+E:\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+E:\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+E:\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.Cache
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+K:\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+K:\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+K:\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+K:\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.Cache
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.cache
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+H:\BEYDI\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+H:\BEYDI\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+H:\BEYDI\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+H:\BEYDI\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.Cache
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+H:\BEYDI\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+F:\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+F:\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+F:\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+F:\SONIDO\SONIDO\bin\Debug\MySql.Data.dll
+F:\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+K:\Proyecto\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+K:\Proyecto\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+K:\Proyecto\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+K:\Proyecto\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.Cache
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+K:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.cache
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+F:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+J:\Proyecto\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+J:\Proyecto\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+J:\Proyecto\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+J:\Proyecto\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.Cache
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+J:\Proyecto\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.Cache
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\bin\Debug\MySql.Data.dll
+H:\ACTIVADOR DE WINDOWS 10-MARLON TUTOS\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.cache
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CopyComplete
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+C:\Users\FJaimes\Downloads\SONIDO\SONIDO\obj\Debug\SONIDO.Consulta_Detallada.resources
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.Consulta_Detallada.resources
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+K:\SONIDO\SONIDO\obj\Debug\SONIDO.Consulta_Detallada.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Consulta_Detallada.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.cache
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CopyComplete
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+C:\Users\FJaimes\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+E:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+F:\SONIDO\SONIDO\obj\Debug\SONIDO.Consulta_Detallada.resources
+I:\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+I:\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+I:\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+I:\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Consulta_Detallada.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.Cache
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+I:\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+C:\Users\user\Desktop\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+C:\Users\user\Desktop\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+C:\Users\user\Desktop\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+C:\Users\user\Desktop\SONIDO\SONIDO\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\Interop.LCC11.dll
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Consulta_Detallada.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+C:\Users\user\Desktop\SONIDO\SONIDO\obj\Debug\SONIDO.pdb
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\bin\Debug\SONIDO.exe.config
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\bin\Debug\SONIDO.exe
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\bin\Debug\SONIDO.pdb
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\bin\Debug\MySql.Data.xml
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.csprojAssemblyReference.cache
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.ResolveComReference.cache
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Consultas.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Consulta_Detallada.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_contrato.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_paquetes.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Eliminar_trabajador.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Inventario.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Contratos.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Menu_principal.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_contrato.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_inventario.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Modificar_paquetes.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Paquetes.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Properties.Resources.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.Trabajadores.resources
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.GenerateResource.cache
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CoreCompileInputs.cache
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.csproj.CopyComplete
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.exe
+C:\Users\sergio\Documents\PORTAFOLIOS ISIC\PORTAFOLIO ISIC 6 SEM\Ing. Software(Mariela)\PROYECTO SONIDO\SONIDO\SONIDO\obj\Debug\SONIDO.pdb

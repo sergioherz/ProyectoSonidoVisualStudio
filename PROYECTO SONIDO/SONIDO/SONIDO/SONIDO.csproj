@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FD6A53EA-6C81-4033-AB4C-8723833DB0FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SONIDO</RootNamespace>
+    <AssemblyName>SONIDO</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="conectar.cs" />
+    <Compile Include="Consultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas.Designer.cs">
+      <DependentUpon>Consultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta_Detallada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta_Detallada.Designer.cs">
+      <DependentUpon>Consulta_Detallada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_contrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminar_contrato.Designer.cs">
+      <DependentUpon>Eliminar_contrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_paquetes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminar_paquetes.Designer.cs">
+      <DependentUpon>Eliminar_paquetes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_trabajador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminar_trabajador.Designer.cs">
+      <DependentUpon>Eliminar_trabajador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventario.Designer.cs">
+      <DependentUpon>Inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contratos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contratos.Designer.cs">
+      <DependentUpon>Contratos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_principal.Designer.cs">
+      <DependentUpon>Menu_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_contrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar_contrato.Designer.cs">
+      <DependentUpon>Modificar_contrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar_inventario.Designer.cs">
+      <DependentUpon>Modificar_inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_paquetes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar_paquetes.Designer.cs">
+      <DependentUpon>Modificar_paquetes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Paquetes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paquetes.Designer.cs">
+      <DependentUpon>Paquetes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Trabajadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trabajadores.Designer.cs">
+      <DependentUpon>Trabajadores.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Consultas.resx">
+      <DependentUpon>Consultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta_Detallada.resx">
+      <DependentUpon>Consulta_Detallada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminar_contrato.resx">
+      <DependentUpon>Eliminar_contrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminar_paquetes.resx">
+      <DependentUpon>Eliminar_paquetes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminar_trabajador.resx">
+      <DependentUpon>Eliminar_trabajador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventario.resx">
+      <DependentUpon>Inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contratos.resx">
+      <DependentUpon>Contratos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_principal.resx">
+      <DependentUpon>Menu_principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar_contrato.resx">
+      <DependentUpon>Modificar_contrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar_inventario.resx">
+      <DependentUpon>Modificar_inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar_paquetes.resx">
+      <DependentUpon>Modificar_paquetes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paquetes.resx">
+      <DependentUpon>Paquetes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Trabajadores.resx">
+      <DependentUpon>Trabajadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="InteropExtensionLib">
+      <Guid>{C3D19104-7A67-4EB0-B459-D5B2E734D430}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="LCC11">
+      <Guid>{EDCD5812-6A06-43C3-AFAC-46EF5D14E22C}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
